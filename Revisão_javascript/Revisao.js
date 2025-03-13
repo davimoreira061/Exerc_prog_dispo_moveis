@@ -3,11 +3,11 @@ console.log("testeee")
 /*cometario 
 de varias 
 linhas*/
-var nome = "yasmin"; //escopo global 
+var nome = "Davi"; //escopo global 
 let  idade = 19; //escopo de bloco 
 
 //primitivos 
-let Nome = "Gustavo"; // string
+let Nome = "Alex"; // string
 let Idade = 25; // number
 let ativo = true; // boolean
 let vazio = null; // null
@@ -41,7 +41,7 @@ console.log("Dia inválido");
 
 //objetos
 let pessoa = {
-    nome:  "yasmin",
+    nome:  "Ygor",
     idade: 20,
     curso: "ADS"
 

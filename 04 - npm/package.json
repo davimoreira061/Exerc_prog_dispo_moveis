@@ -1,0 +1,24 @@
+{
+  "name": "exerc_prog_dispo_moveis",
+  "version": "1.0.0",
+  "description": "Aula de Programação para dispositivos móveis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davimoreira061/Exerc_prog_dispo_moveis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davimoreira061/Exerc_prog_dispo_moveis/issues"
+  },
+  "homepage": "https://github.com/davimoreira061/Exerc_prog_dispo_moveis#readme",
+  "type": "module",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
